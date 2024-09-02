@@ -1,0 +1,25 @@
+.image{
+    position: fixed;
+    width: 0px;
+    height: 0px;
+
+    right: 100px;
+    bottom: 100px;
+}
+
+.boxmodel1 {
+    width: 200px;
+    height: 200px;
+    padding: 30px 30px;
+    border-radius: 100%;
+     margin: 50px 50px;
+    
+}
+
+section {
+    background-image: url("destaque.jpg");
+    width: 10px;
+    height: 10px;
+
+
+}
